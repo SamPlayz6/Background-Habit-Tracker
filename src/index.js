@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import HabitDashboard from './HabitDashboard';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <HabitDashboard />
   </React.StrictMode>,
   document.getElementById('root')
 );
