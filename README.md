@@ -30,7 +30,10 @@ Always in the background!
 
 3. npm start
 
-<details><summary>If you want to setup auto launch</summary>
+---
+
+
+<details><summary>**If you want to setup auto launch**</summary>
 
 Right-click on your application's executable (usually found in node_modules\electron\dist\electron.exe)
 Select "Create shortcut"
